@@ -18,7 +18,7 @@ private:
     QString typeSalle;
 
 public:
-    // Constructeurs
+    // Constructeurs *
     Salle();
     Salle(int, QString, int, QString);
 

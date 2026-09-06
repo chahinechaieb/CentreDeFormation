@@ -10,7 +10,7 @@
 #include <QTextDocument>
 #include "qrcodegen.hpp" // Bibliothèque pour le QR Code
 
-// Constructeur par défaut
+// Constructeur par défaut *
 Salle::Salle()
 {
     idSalle = 0;
